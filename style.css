@@ -1,0 +1,149 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar css start */
+
+.navbar-brand{
+    font-size: 30px;
+    color: white !important;
+}
+
+body{
+    font-family: poppins;
+}
+
+
+.menu{
+    font-size: 20px;
+}
+
+#navbarNav{
+    justify-content: center !important;
+}
+
+.navbar-toggler-icon, .navbar-toggler{
+    background-color: white;
+    border-radius: 50px;
+}
+
+.nav-link{
+    color: white !important;
+    font-weight: 200;
+}
+
+.nav-link:hover{
+    color: rgb(255, 133, 77) !important;
+}
+
+/* Navbar css end */
+
+
+
+/* Main page css start */
+.Hi{
+    color: rgb(0, 0, 0);
+}
+
+.board{
+    max-width: 450px;
+    
+}
+
+.profilepic{
+    max-width: 150px !important;
+}
+
+.speech{
+    font-size: 20px;
+}
+
+.icons{
+    font-size: 40px;
+    padding: 40px 0px;
+    color: white;
+}
+
+.social{
+    color: rgb(255, 54, 148);
+}
+
+.social2{
+    color: green;
+}
+
+.social3{
+    color: black;
+    font-size: 35px;
+}
+
+i{
+    padding: 0px 5px;
+    transition: 0.3s;
+}
+
+i:hover{
+    color: rgb(255, 133, 77) !important;
+}
+
+/* Main page css end */
+
+/* --------------------------------------------------------------------------------- */
+
+/* Education Page CSS Start */
+
+.pics{
+    text-align: center !important;
+}
+.edupic{
+    max-width: 400px;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+/* Education Page CSS End */
+
+/* --------------------------------------------------------------------------------- */
+
+/* Experience page CSS */
+.color{
+    background-color: rgb(253, 180, 70);
+}
+
+.pics2{
+    text-align: center;
+}
+
+.exppic{
+    max-width: 400px;
+    margin-top: 20px;
+}
+/* Experience page CSS End */
+
+
+/* About page CSS Start */
+
+.imgsize{
+    width: 300px;
+}
+
+.text{
+    color: white;
+}
+
+.background{
+    background-color: rgb(35, 25, 46);
+}
+
+/* About page CSS End */
+
+
+/* Contact page CSS Start */
+
+.background2{
+    background-color: rgb(253, 158, 95);
+}
+
+/* Contact page CSS end */
